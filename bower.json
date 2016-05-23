@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-extends",
+  "homepage": "https://github.com/yivo/bootstrap-extends",
+  "authors": [
+    "Yaroslav Konoplov <yaroslav@inbox.com>"
+  ],
+  "description": "Improvements for bootstrap 3",
+  "main": "_bootstrap-extends.sass",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "spec",
+    "coffeespec",
+    "gulpfile.*",
+    "demo.gif"
+  ]
+}
