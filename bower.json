@@ -1,20 +1,20 @@
 {
   "name": "bootstrap-extends",
-  "homepage": "https://github.com/yivo/bootstrap-extends",
+  "description": "Useful extensions for Bootstrap 3",
   "authors": [
-    "Yaroslav Konoplov <yaroslav@inbox.com>"
+    "Yaroslav Konoplov <eahome00@gmail.com>"
   ],
-  "description": "Improvements for bootstrap 3",
-  "main": "_bootstrap-extends.sass",
   "license": "MIT",
+  "keywords": [
+    "bootstrap",
+    "css"
+  ],
+  "homepage": "https://github.com/yivo/bootstrap-extends",
   "ignore": [
+    "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "spec",
-    "coffeespec",
-    "gulpfile.*",
-    "demo.gif"
+    "tests"
   ]
 }

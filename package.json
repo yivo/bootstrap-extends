@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-extends",
+  "version": "1.0.1",
+  "description": "Useful extensions for Bootstrap 3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yivo/bootstrap-extends.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css"
+  ],
+  "author": "Yaroslav Konoplov <eahome00@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yivo/bootstrap-extends/issues"
+  },
+  "homepage": "https://github.com/yivo/bootstrap-extends#readme"
+}
